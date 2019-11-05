@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongo-csharp-poc", "mongo-csharp-poc.csproj", "{B0CB8E8A-77C0-4867-BD86-DDA2A2D52DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongo-csharp-api", "..\mongo-csharp-api\mongo-csharp-api.csproj", "{6C674323-F4EF-4685-8CB7-F29139BDD865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CB8E8A-77C0-4867-BD86-DDA2A2D52DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CB8E8A-77C0-4867-BD86-DDA2A2D52DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CB8E8A-77C0-4867-BD86-DDA2A2D52DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CB8E8A-77C0-4867-BD86-DDA2A2D52DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C674323-F4EF-4685-8CB7-F29139BDD865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C674323-F4EF-4685-8CB7-F29139BDD865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C674323-F4EF-4685-8CB7-F29139BDD865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C674323-F4EF-4685-8CB7-F29139BDD865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1271B78-566D-4A2D-9461-1E9EDB78344C}
+	EndGlobalSection
+EndGlobal
